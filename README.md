@@ -1,8 +1,3 @@
-In this project I created the front-end design of a music player in HTML and CSS.
+In my B.tech Second year,I had this Coding Ninja Course for Web Development Here i had this Major project to make Homepage and single playlist page for a Online Music PLayer website like Spotify Using only HTML and CSS (can later use JS on it).
 
-I have uploaded a total of 4 files here :-
-
-MusicPlayerHomePage.html - It consists of the Home Page's html code of the Music Player.
-MusicPlayerSinglePlaylistScreen.html - It consits of the Single Playlist Screen's html code of the Music Player.
-MusicPlayerStyle.css - It consists of the styling for both the html pages in CSS.
-MusicPlayerProject.zip - It is a zip file which consists of all the required images along with the HTML and CSS files for the project to work properly. If you want to view the project, download this file only.
+Main Homepage of the website is index.html and styling is done by external css called stylesheet.css and for the Playlist page html is Single Playlist Screen.html and styling css is Single Playlist Screen Style.css and there are two more css files those for to make the pages more responsive and I don't think that you need to touch those and all the media(images) required for these pages are in the "media" you need to extract this file.
